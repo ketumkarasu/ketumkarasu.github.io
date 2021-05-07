@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kazehary"
+title                    : "Me"
 title_separator          : "-"
 name                     : &name "kazeharu"
-description              : &description "insan"
+description              : &description ""
 url                      : https://kazeharu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kazeharu/kazeharu.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ketum Karasu"
+  name             : "Kazeharu"
   avatar           : "profile.png"
   bio              : "insan"
   location         : "Location"
