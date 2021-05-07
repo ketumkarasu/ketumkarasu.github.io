@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ketum karasu"
+title: "Ali Yusuf Söğüt"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
